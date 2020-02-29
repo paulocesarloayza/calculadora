@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapiCalculadora", "webapiCalculadora\webapiCalculadora.csproj", "{55789366-7D8F-48DC-B2DB-A72427375AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55789366-7D8F-48DC-B2DB-A72427375AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55789366-7D8F-48DC-B2DB-A72427375AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55789366-7D8F-48DC-B2DB-A72427375AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55789366-7D8F-48DC-B2DB-A72427375AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52F40D4-3097-4D75-86FA-8D1DF96E9280}
+	EndGlobalSection
+EndGlobal
